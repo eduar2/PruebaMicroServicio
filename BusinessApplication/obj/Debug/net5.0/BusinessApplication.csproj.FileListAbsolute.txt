@@ -1,0 +1,17 @@
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\bin\Debug\net5.0\BusinessApplication.deps.json
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\bin\Debug\net5.0\BusinessApplication.dll
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\bin\Debug\net5.0\BusinessApplication.pdb
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\bin\Debug\net5.0\Core.dll
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\bin\Debug\net5.0\DAL.dll
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\bin\Debug\net5.0\Core.pdb
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\bin\Debug\net5.0\DAL.pdb
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.AssemblyInfoInputs.cache
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.AssemblyInfo.cs
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.csproj.CopyComplete
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.dll
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\refint\BusinessApplication.dll
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\BusinessApplication.pdb
+C:\Users\Edu\source\repos\WebAPITest\BusinessApplication\obj\Debug\net5.0\ref\BusinessApplication.dll

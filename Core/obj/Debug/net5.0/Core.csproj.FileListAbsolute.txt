@@ -1,0 +1,12 @@
+C:\Users\Edu\source\repos\WebAPITest\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\Edu\source\repos\WebAPITest\Core\bin\Debug\net5.0\Core.dll
+C:\Users\Edu\source\repos\WebAPITest\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\Core.dll
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\refint\Core.dll
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\Edu\source\repos\WebAPITest\Core\obj\Debug\net5.0\ref\Core.dll

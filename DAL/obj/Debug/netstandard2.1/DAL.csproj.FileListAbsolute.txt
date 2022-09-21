@@ -1,0 +1,15 @@
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.1\DAL.runtimeconfig.json
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.1\DAL.runtimeconfig.dev.json
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.1\DAL.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  db:
+    image: "mcr.microsoft.com/mssql/server:2017-latest"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Testing1
+    volumes:
+      - database:/var/opt/mssql
+    build:
+      context: .
+      dockerfile: Dockerfile
+  webapitest:
+    image: ${DOCKER_REGISTRY-}webapitest
+    build:
+      context: .
+      dockerfile: WebAPITest/Dockerfile
+    depends_on:
+      - db
+volumes:
+   database:

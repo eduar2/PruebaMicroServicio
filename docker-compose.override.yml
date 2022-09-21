@@ -1,0 +1,26 @@
+version: '3.4'
+
+services:
+  webapitest:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+    ports:
+      - "80"
+      - "443"
+      - "44378:443"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+  db:
+      container_name: TestDB
+      environment:
+        SA_PASSWORD: "Testing1"
+        ACCEPT_EULA: "Y"
+      restart: always
+      ports:
+        - "1433:1433"
+      volumes:
+        - database:/var/opt/mssql
+volumes:
+   database:

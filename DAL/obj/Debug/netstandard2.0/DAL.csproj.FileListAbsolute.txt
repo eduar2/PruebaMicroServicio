@@ -1,0 +1,5 @@
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Edu\Practicas\EFWebApiTest\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
